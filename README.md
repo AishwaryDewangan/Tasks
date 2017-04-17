@@ -17,11 +17,11 @@ More task support coming soon.
 
 ### Home Screen (Empty, Single Task and Multiple Task)
 
-![HomeEmpty](images/1.png)
+![HomeEmpty](images/1.png =250x20)
 
-![HomeSingle](images/4.png)
+![HomeSingle](images/4.png =250x20)
 
-![HomeMultiple](images/6.png)
+![HomeMultiple](images/6.png =250x20)
 
 ### Select Date and Time
 
