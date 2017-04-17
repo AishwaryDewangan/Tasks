@@ -13,30 +13,32 @@ etc.
 
 More task support coming soon.
 
-<a href='https://play.google.com/store/apps/details?id=com.wottageek.tasks'>
-	<img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="25%" height="25%"/>
-</a>
+<p align="center">
+	<a href='https://play.google.com/store/apps/details?id=com.wottageek.tasks'>
+		<img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="25%" height="25%"/>
+	</a>
+</p>
+
+
 
 ## Screenshots
 
 * ### Home Screen
 
-<img alt='Empty Home Screen' src='images/1.png' width="25%" height="25%"/>
-
-<img alt='Task List' src='images/4.png' width="25%" height="25%"/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img alt='Empty Home Screen' src='images/1.png' width="25%" height="25%"/> | <img alt='Task List' src='images/4.png' width="25%" height="25%"/>
 
 * ### Select Date and Time
 
-<img alt='Select Date and Time' src='images/2.png' width="25%" height="25%"/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img alt='Select Date and Time' src='images/2.png' width="25%" height="25%"/>
 
 * ### Select Task (Multiple Tasks can also be selected at once)
 
-<img alt='Select Task' src='images/3.png' width="25%" height="25%"/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img alt='Select Task' src='images/3.png' width="25%" height="25%"/>
 
 * ### Edit Task
 
-<img alt='Edit Task' src='images/5.png' width="25%" height="25%"/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img alt='Edit Task' src='images/5.png' width="25%" height="25%"/>
 
 * ### Task Completed
 
-<img alt='Task Completed' src='images/6.png' width="25%" height="25%"/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img alt='Task Completed' src='images/6.png' width="25%" height="25%"/>
