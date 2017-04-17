@@ -14,29 +14,29 @@ etc.
 More task support coming soon.
 
 <a href='https://play.google.com/store/apps/details?id=com.wottageek.tasks&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
-	<img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="50%" height="50%"/>
+	<img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="20%" height="20%"/>
 </a>
 
 ## Screenshots
 
-### Home Screen
+* ### Home Screen
 
-<img alt='Empty Home Screen' src='images/1.png' width="50%" height="50%"/>
+<img alt='Empty Home Screen' src='images/1.png' width="20%" height="20%"/>
 
-<img alt='Task List' src='images/4.png' width="50%" height="50%"/>
+<img alt='Task List' src='images/4.png' width="20%" height="20%"/>
 
-### Select Date and Time
+* ### Select Date and Time
 
-<img alt='Select Date and Time' src='images/2.png' width="50%" height="50%"/>
+<img alt='Select Date and Time' src='images/2.png' width="20%" height="20%"/>
 
-### Select Task (Multiple Tasks can also be selected at once)
+* ### Select Task (Multiple Tasks can also be selected at once)
 
-<img alt='Select Task' src='images/3.png' width="50%" height="50%"/>
+<img alt='Select Task' src='images/3.png' width="20%" height="20%"/>
 
-### Edit Task
+* ### Edit Task
 
-<img alt='Edit Task' src='images/5.png' width="50%" height="50%"/>
+<img alt='Edit Task' src='images/5.png' width="20%" height="20%"/>
 
-### Task Completed
+* ### Task Completed
 
-<img alt='Task Completed' src='images/6.png' width="50%" height="50%"/>
+<img alt='Task Completed' src='images/6.png' width="20%" height="20%"/>
