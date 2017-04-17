@@ -25,20 +25,20 @@ More task support coming soon.
 
 * ### Home Screen
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img alt='Empty Home Screen' src='images/1.png' width="25%" height="25%"/> | <img alt='Task List' src='images/4.png' width="25%" height="25%"/>
+<img alt='Empty Home Screen' src='images/1.png' width="25%" height="25%" hspace="20px"/> | <img alt='Task List' src='images/4.png' width="25%" height="25%" hspace="20px"/>
 
 * ### Select Date and Time
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img alt='Select Date and Time' src='images/2.png' width="25%" height="25%"/>
+<img alt='Select Date and Time' src='images/2.png' width="25%" height="25%" hspace="20px"/>
 
 * ### Select Task (Multiple Tasks can also be selected at once)
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img alt='Select Task' src='images/3.png' width="25%" height="25%"/>
+<img alt='Select Task' src='images/3.png' width="25%" height="25%" hspace="20px"/>
 
 * ### Edit Task
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img alt='Edit Task' src='images/5.png' width="25%" height="25%"/>
+<img alt='Edit Task' src='images/5.png' width="25%" height="25%" hspace="20px"/>
 
 * ### Task Completed
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img alt='Task Completed' src='images/6.png' width="25%" height="25%"/>
+<img alt='Task Completed' src='images/6.png' width="25%" height="25%" hspace="20px"/>
