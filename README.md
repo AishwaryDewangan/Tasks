@@ -17,7 +17,7 @@ More task support coming soon.
 
 ### Home Screen (Empty, Single Task and Multiple Task)
 
-![HomeEmpty](images/1.png =250x20)
+![HomeEmpty](images/1.png | width=100)
 
 ![HomeSingle](images/4.png =250x20)
 
