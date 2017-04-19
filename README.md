@@ -44,7 +44,7 @@ More task support coming soon.
 <img alt='Task Completed' src='images/6.png' width="25%" height="25%" hspace="40px"/>
 
 
-##TODO List
+## TODO List
 
 This is the todo list of the project. The things listed here are yet to be completed.
 
@@ -55,6 +55,6 @@ This is the todo list of the project. The things listed here are yet to be compl
 - [ ] NEW Feature: Sync and Backup
 
 
-##License
+## License
 
 The app is currently not being licensed. But it will licensed soon.
