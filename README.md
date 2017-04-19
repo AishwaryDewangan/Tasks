@@ -42,3 +42,19 @@ More task support coming soon.
 * ### Task Completed
 
 <img alt='Task Completed' src='images/6.png' width="25%" height="25%" hspace="40px"/>
+
+
+##TODO List
+
+This is the todo list of the project. The things listed here are yet to be completed.
+
+- [ ] Update Appl with new UI and UX
+- [ ] Add support of new tasks
+- [ ] App sometimes closes off abruptly
+- [ ] NEW Feature: Profiles and Templates
+- [ ] NEW Feature: Sync and Backup
+
+
+##License
+
+The app is currently not being licensed. But it will licensed soon.
